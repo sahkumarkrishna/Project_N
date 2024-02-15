@@ -1,0 +1,104 @@
+
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+h1 {
+    font-size: 340%;
+    font-weight: bold;
+    margin-left: 40%;
+	color: white;
+
+	padding: 2vw;
+    /* height: 100%; */
+}
+
+.navbar {
+	background-color:  darkblue;
+  
+
+}
+
+.nav{
+    margin-top: 0.2%;
+   
+    background-color: red;
+    border-radius: 5px;
+}
+.nav ul{
+    overflow: auto;
+}
+.nav li{
+    font-size: 20px;
+    margin: 23px ;
+    margin-left: 25px;
+    float: left;
+    list-style: none;
+}
+.nav li a{
+    padding: 5px 5px;
+    text-decoration: none;
+    color: white;
+
+}
+.search{
+    float: right;
+    padding: 12px 75px;
+    
+    
+}
+.nav input{
+    border: 2px solid black;
+    padding: 9px 9px;
+    border-radius: 10px;
+}
+.search button {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5PX;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.search button {
+    color: white;
+    background-color: green;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 175%;
+   margin-top: 20px;
+   margin-left:44%;
+   font-weight: bold;
+   color: darkblue;
+   
+}
+.Your-Email{
+    padding: 2px 75px;
+}
+.Your-Email input{
+    border: 2px solid black;
+    padding: 7px 100px;
+    border-radius: 10px;
+    margin-left: 41.5%;
+
+}
+.Your-Email button{
+    border: 2px solid black;
+    padding: 7px 100px;
+    border-radius: 10px;
+    margin-left: 45%;
+    background-color: rgb(238, 75, 75);
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
